@@ -1,0 +1,10 @@
+body.intro {
+  width: 50%;
+  font-style: italic;
+}
+.important {
+  color: teal;
+}
+.unimportant{
+  color: pink;
+}
