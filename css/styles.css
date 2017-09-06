@@ -8,3 +8,7 @@ body.intro {
 .unimportant{
   color: pink;
 }
+
+img {
+  float: left
+}
